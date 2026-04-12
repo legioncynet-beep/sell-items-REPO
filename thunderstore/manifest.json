@@ -1,0 +1,9 @@
+{
+  "name":          "SellItems",
+  "version_number":"1.0.0",
+  "website_url":   "https://github.com/silsotha/sell-items-REPO",
+  "description":   "Sell unwanted items (weapons, upgrades) in the lobby truck. Supports modded items via public API. Configurable.",
+  "dependencies":  [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
